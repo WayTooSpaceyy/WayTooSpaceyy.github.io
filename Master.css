@@ -106,7 +106,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
   background: linear-gradient(to top, red, violet, indigo, blue, green, yellow, orange, red);
   border: 1px solid var(--Main-Colour);
   border-radius: 5px;
-  content: var(--ChangelogSize) var(--Theme-Variant)", "var(--Update-Text);
+  content: var(--ChangelogSize) var(--Theme-Variant);
   text-align: center;
   animation: UploaderBG 10s infinite linear;
   z-index: 9997;
@@ -118,7 +118,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 }
 
 [layer-id="user-settings"] .userSettingsAccount-2eMFVR:after{
-  content:var(--Theme-Variant)", "var(--Update-Text);
+  content:var(--Theme-Variant);
   color: var(--Main-Colour);
 }
 
@@ -134,7 +134,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
   background: linear-gradient(to top, red, violet, indigo, blue, green, yellow, orange, red);
   border: 1px solid var(--Main-Colour);
   border-radius: 5px;
-  content: var(--ChangelogSize) var(--Theme-Variant)", "var(--Update-Text);
+  content: var(--ChangelogSize) var(--Theme-Variant);
   text-align: center;
   animation: UploaderBG 10s infinite linear;
   z-index: 9997;
@@ -146,7 +146,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 }
 
 #user-settings * .background-1QDuV2:before{
-  content:var(--Theme-Variant)", "var(--Update-Text);
+  content:var(--Theme-Variant);
   color: var(--Main-Colour);
 }
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
@@ -274,7 +274,7 @@ body:after {
 }
 
 .native-toolbar .titlebar:after {
-  content: ", " var(--Theme-Variant) ", " var(--Update-Text);
+  content: ", " var(--Theme-Variant);
   position: absolute;
   left: 5px;
   bottom: 3px;
@@ -3118,7 +3118,7 @@ div.form-inner, .form-actions {
 }
 
 .wordmark-2iDDfm:after {
-  content: ", "  var(--Theme-Variant) ", " var(--Update-Text);
+  content: ", "  var(--Theme-Variant);
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3130,7 +3130,7 @@ div.form-inner, .form-actions {
 }
 
 .typeMacOS-3EmCyP:after {
-  content: var(--Theme-Variant) ", " var(--Update-Text);
+  content: var(--Theme-Variant);
   color: Var(--Main-Colour) !important;
   font-size: 13px;
   font-weight: 700;
@@ -3163,7 +3163,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm:after {
-	content:  ", "  var(--Theme-Variant) ", " var(--Update-Text) !important;
+	content:  ", "  var(--Theme-Variant) !important;
 	display: inline !important;
 	position: absolute !important;
 	top: unset !important;
@@ -13582,7 +13582,7 @@ color: var(--Secondary-Main-Colour);
 }
 
 .info-1VyQPT > .colorMuted-HdFt4q.size12-3cLvbJ:first-of-type:before {
-  content: var(--Theme-Variant) ", "var(--Update-Text)" by NFLD99 \a" !important;
+  content: var(--Theme-Variant) ", by iAmSpace \a" !important;
 }
 
 .theme-dark .bd-addon-list .bd-addon-card:hover,
