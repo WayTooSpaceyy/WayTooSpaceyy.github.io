@@ -9313,7 +9313,7 @@ button.btn.btn-default {
 }
 
 .gameVerifiedIcon-2dGGa5:after {
-  content: "(âœ”)";
+  content: "(✔)";
   color: var(--Main-Colour);
 }
 
@@ -9328,7 +9328,7 @@ button.btn.btn-default {
 
 #user-settings > div > div > div.sidebarRegion-VFTUkN > div > div > div > div > div.itemSelected-1qLhcL.item-PXvHYJ.selected-3s45Ha:after,
 #bd-settings-sidebar > span > div > div.ui-tab-bar-item.selected:after {
-  content: " (âœ”)";
+  content: " (✔)";
   color: var(--Main-Colour);
   transition: all 200ms;
 }
@@ -11227,7 +11227,7 @@ html .upperBadge-2XnnGB.count {
 }
 
 #user-settings > div > div > div.sidebarRegion-VFTUkN > div > div > div > div > div.itemSelected-1qLhcL.item-PXvHYJ.selected-3s45Ha, #bd-settings-sidebar > span > div > div.ui-tab-bar-item.selected:before {
-  content: "(âœ”) ";
+  content: "(✔) ";
   color: var(--Main-Colour);
   transition: all 200ms;
 }
@@ -11273,7 +11273,7 @@ html .upperBadge-2XnnGB.count {
 }
 
 #pubslayer .ui-tab-bar-item.selected:before,#pubslayer .ui-tab-bar-item.selected:after {
-  content: " (âœ”) ";
+  content: " (✔) ";
   color: var(--Main-Colour);
   transition: all 200ms;
 }
@@ -11358,13 +11358,13 @@ html .upperBadge-2XnnGB.count {
 }
 
 .item-PXvHYJ[style="color: rgb(255, 255, 255); background-color: rgb(114, 137, 218);"]:after {
-  content: " (âœ”) ";
+  content: " (✔) ";
   color: var(--Main-Colour);
   transition: all 200ms;
 }
 
 .item-PXvHYJ[style="color: rgb(255, 255, 255); background-color: rgb(114, 137, 218);"]::before {
-  content: " (âœ”) ";
+  content: " (✔) ";
   color: var(--Main-Colour);
   transition: all 200ms;
 }
@@ -11799,7 +11799,7 @@ color: var(--Main-Colour);
 
 .sidebar-CFHs9e .selected-3s45Ha:before,
 .sidebar-CFHs9e .selected-3s45Ha:after{
-  content: " (âœ”) "!important;
+  content: " (✔) "!important;
   color: var(--Main-Colour);
   transition: all 200ms;
 }
@@ -12210,12 +12210,12 @@ textarea {
 }
 
 body .ace_closeButton::before {
-  content: "âœ–";
+  content: "✔";
   color: var(--Main-Colour);
 }
 
 body .ace_closeButton:hover::before {
-  content: "âœ–";
+  content: "✔";
   color: var(--Main-Colour);
 }
 
